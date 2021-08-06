@@ -1,0 +1,5 @@
+.card__info {
+    margin: 22px 15px 22px 21px;
+    display: flex;
+    align-items: center;
+}
